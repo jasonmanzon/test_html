@@ -1,0 +1,66 @@
+body{
+    background-color: #F2EDE7 ;
+}
+
+a{
+    text-decoration: none;
+}
+
+p{
+    font-family: batang;
+    text-align: center;
+    font-weight: 300;
+    font-size: 1.5em;
+    letter-spacing: 7px;
+    color: black;
+}
+
+h1{
+    font-family: batang;
+    text-align: center;
+    font-weight: 300;
+    font-size: 2em;
+    letter-spacing: 7px;
+    color: black;
+}
+
+h2{
+    font-family: batang;
+    text-align: center;
+    font-weight: 300;
+    font-size: 1.5em;
+    letter-spacing: 7px;
+    color: black;
+}
+
+img{
+    padding-top: 50px;
+    text-align:center;
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin-left:auto;
+    margin-right:auto;
+    position: relative;
+    max-height: 875px;
+}
+
+.top_bar{
+    max-height: 400px;
+    padding-bottom: 30px;
+}
+
+.logo {
+    display: block;
+    background-repeat: no-repeat;
+    height: auto;
+    width: 150px;
+    margin: auto;
+}
+
+.container
+{
+    max-width: 60vw;
+    margin: auto;
+}
+
